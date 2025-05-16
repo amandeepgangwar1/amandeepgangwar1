@@ -23,7 +23,7 @@
 - 📫 How to Reach Me:  
    - 📧 Email: [amandeep8953540339@gmail.com](mailto:amandeep8953540339@gmail.com)  
    - 💼 LinkedIn: [linkedin.com/in/amandeepgangwar](https://www.linkedin.com/in/amandeepgangwar)  
-   - 💻 GitHub: [github.com/amandeepgangwar1](https://github.com/amandeepgangwar1)  
+   - 💻 Leetcode: [leetcode.com/u/Amandeep_Gangwar/](https://leetcode.com/u/Amandeep_Gangwar/)  
 
 - 😄 Pronouns:  
    - He/Him
