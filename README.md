@@ -1,8 +1,8 @@
 - 👋 Hi, I’m **Amandeep Gangwar**
 
 - 🚀 About Me:
-    I'm a passionate Web Developer and Java Programmer, currently pursuing my BCA at 
-    Invertis University. I love coding, solving problems, and building impactful projects 
+    I'm a passionate Web Developer and Java Programmer, currently pursuing my MCA at 
+    Chandigarh University. I love coding, solving problems, and building impactful projects 
     using Java, Web Technologies, and Full-Stack Development.
 
 - 👀 Interests:  
@@ -21,7 +21,7 @@
    - Backend API development
  
 - 📫 How to Reach Me:  
-   - 📧 Email: [amandeep8953540339@gmail.com](mailto:amandeep8953540339@gmail.com)  
+   - 📧 Email: [amandeepgangwar0@gmail.com](mailto:amandeepgangwar0@gmail.com)  
    - 💼 LinkedIn: [linkedin.com/in/amandeepgangwar](https://www.linkedin.com/in/amandeepgangwar)  
    - 💻 Leetcode: [leetcode.com/u/Amandeep_Gangwar/](https://leetcode.com/u/Amandeep_Gangwar/)  
 
