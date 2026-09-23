@@ -10,14 +10,14 @@
 
 I'm an MCA student at Chandigarh University passionate about building practical software applications and turning data into meaningful insights.
 
-* 🎓 MCA Student — Chandigarh University
-* 💻 Focused on Full-Stack Development & Data Analysis
-* 🌐 Building web applications using the MERN Stack
-* 📊 Working with Python, SQL, Excel & Power BI
-* 🤖 Exploring Machine Learning
-* ☁️ Learning and practicing Google Cloud
-* 🚀 Interested in internships, projects and collaborative opportunities
-* 📚 Always learning and improving through hands-on projects
+- 🎓 MCA Student — Chandigarh University
+- 💻 Focused on Full-Stack Development & Data Analysis
+- 🌐 Building web applications using the MERN Stack
+- 📊 Working with Python, SQL, Excel & Power BI
+- 🤖 Exploring Machine Learning
+- ☁️ Learning and practicing Google Cloud
+- 🚀 Interested in internships, projects and collaborative opportunities
+- 📚 Always learning and improving through hands-on projects
 
 ---
 
@@ -67,13 +67,13 @@ A modern music streaming platform built with JavaScript, Node.js, Express.js and
 
 Key Features
 
-* 🎧 Music playback and controls
-* 🔎 Music search
-* ❤️ Favorites
-* 🎵 Playlists
-* 📱 Responsive interface
-* 🔌 Backend APIs
-* 🗄️ MongoDB database integration
+- 🎧 Music playback and controls
+- 🔎 Music search
+- ❤️ Favorites
+- 🎵 Playlists
+- 📱 Responsive interface
+- 🔌 Backend APIs
+- 🗄️ MongoDB database integration
 
 Tech Stack: "JavaScript" "Node.js" "Express.js" "MongoDB" "HTML" "CSS"
 
@@ -89,11 +89,11 @@ Analyzed Superstore sales data to identify sales trends, profitability patterns 
 
 Work Performed
 
-* Data cleaning and preprocessing
-* Exploratory Data Analysis
-* Sales and profit analysis
-* Business insights
-* Interactive Power BI dashboard
+- Data cleaning and preprocessing
+- Exploratory Data Analysis
+- Sales and profit analysis
+- Business insights
+- Interactive Power BI dashboard
 
 Tech Stack: "Python" "Pandas" "NumPy" "Excel" "Power BI"
 
@@ -111,26 +111,29 @@ Tech Stack: "JavaScript" "Node.js" "Express.js" "MongoDB" "JWT"
   <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>---
 
-🏠 Gurugram Real Estate Analysis
+🔤 Language Detection System
 
-Real Estate Data Analysis & Visualization Project
+A machine learning application that identifies the language of input text using Python and Scikit-Learn.
 
-Analyzed Gurugram real estate data using Python to explore property prices, locations, sizes and other real estate trends and patterns.
+Tech Stack: "Python" "Scikit-Learn" "Machine Learning"
 
-Work Performed
+---
 
-* Data cleaning and preprocessing
-* Exploratory Data Analysis
-* Real estate price analysis
-* Property and location analysis
-* Data visualization
-* Extracting meaningful business insights
+📝 Android Notes App
 
-Tech Stack: "Python" "Pandas" "NumPy" "Matplotlib" "Seaborn" "Data Analysis"
+An Android application for creating, storing and managing personal notes.
 
-<a href="https://github.com/amandeepgangwar1/Data-Analysis/tree/main/4%20Advance%20Python%20in%20Data%20Analysis%2FGurugram%20Real%20Estate%20Project">
-  <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>---
+Tech Stack: "Java" "Android" "Firebase"
+
+---
+
+🌦️ Weather App
+
+An Android weather application that retrieves real-time weather information using a REST API.
+
+Tech Stack: "Java" "Android" "REST API"
+
+---
 
 📂 Data Analysis Portfolio
 
@@ -186,12 +189,12 @@ Machine Learning
 
 🏆 Experience & Activities
 
-* 👨‍💻 Smart India Hackathon — Team Member
-* 👥 Class Representative — Graduation
-* 🚀 Analytica 2026 — Team Leader
-* ☁️ Google Cloud Skills Boost Learner
-* 💻 Full-Stack Development Projects
-* 📊 Data Analysis Portfolio Development
+- 👨‍💻 Smart India Hackathon — Team Member
+- 👥 Class Representative — Graduation
+- 🚀 Analytica 2026 — Team Leader
+- ☁️ Google Cloud Skills Boost Learner
+- 💻 Full-Stack Development Projects
+- 📊 Data Analysis Portfolio Development
 
 ---
 
