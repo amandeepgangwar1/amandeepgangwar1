@@ -1,69 +1,49 @@
-<div align="center">
+<div align="center">👋 Hi, I'm Amandeep Gangwar
 
-# 👋 Hi, I'm Amandeep Gangwar
-
-### `MCA Student` • `Full-Stack Developer` • `Data Analyst`
+"MCA Student" • "Full-Stack Developer" • "Data Analyst"
 
 <a href="https://github.com/amandeepgangwar1">
   <img src="https://komarev.com/ghpvc/?username=amandeepgangwar1&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-</a>
+</a><br/><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Data+Analysis+Enthusiast;MCA+Student+at+Chandigarh+University;Building+Projects+%7C+Learning+%7C+Growing" alt="Typing SVG"/></div>---
 
-<br/>
+👨‍💻 About Me
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Data+Analysis+Enthusiast;MCA+Student+at+Chandigarh+University;Building+Projects+%7C+Learning+%7C+Growing" alt="Typing SVG"/>
-
-</div>
-
----
-
-## 👨‍💻 About Me
-
-I'm an **MCA student at Chandigarh University** passionate about building practical software applications and turning data into meaningful insights.
+I'm an MCA student at Chandigarh University passionate about building practical software applications and turning data into meaningful insights.
 
 * 🎓 MCA Student — Chandigarh University
-* 💻 Focused on **Full-Stack Development & Data Analysis**
-* 🌐 Building web applications using the **MERN Stack**
-* 📊 Working with **Python, SQL, Excel & Power BI**
-* 🤖 Exploring **Machine Learning**
-* ☁️ Learning and practicing **Google Cloud**
+* 💻 Focused on Full-Stack Development & Data Analysis
+* 🌐 Building web applications using the MERN Stack
+* 📊 Working with Python, SQL, Excel & Power BI
+* 🤖 Exploring Machine Learning
+* ☁️ Learning and practicing Google Cloud
 * 🚀 Interested in internships, projects and collaborative opportunities
 * 📚 Always learning and improving through hands-on projects
 
 ---
 
-## 🛠️ Tech Stack
+🛠️ Tech Stack
 
-### 💻 Programming Languages
+💻 Programming Languages
 
 <p>
   <img src="https://skillicons.dev/icons?i=java,js,python" />
-</p>
-
-### 🎨 Frontend Development
+</p>🎨 Frontend Development
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,vite" />
-</p>
-
-### ⚙️ Backend Development
+</p>⚙️ Backend Development
 
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,java" />
-</p>
-
-### 🗄️ Databases
+</p>🗄️ Databases
 
 <p>
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
-</p>
-
-### 📊 Data Analysis & Visualization
+</p>📊 Data Analysis & Visualization
 
 <p>
   <img src="https://skillicons.dev/icons?i=python" />
-</p>
-
-<p>
+</p><p>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
@@ -71,25 +51,21 @@ I'm an **MCA student at Chandigarh University** passionate about building practi
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
-
-### ☁️ Cloud & Tools
+</p>☁️ Cloud & Tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=gcp,git,github,vscode,docker" />
-</p>
+</p>---
 
----
+🚀 Featured Projects
 
-## 🚀 Featured Projects
+🎵 SoundWave Studio
 
-### 🎵 SoundWave Studio
-
-**Full-Stack Music Streaming Web Application**
+Full-Stack Music Streaming Web Application
 
 A modern music streaming platform built with JavaScript, Node.js, Express.js and MongoDB.
 
-**Key Features**
+Key Features
 
 * 🎧 Music playback and controls
 * 🔎 Music search
@@ -99,21 +75,19 @@ A modern music streaming platform built with JavaScript, Node.js, Express.js and
 * 🔌 Backend APIs
 * 🗄️ MongoDB database integration
 
-**Tech Stack:** `JavaScript` `Node.js` `Express.js` `MongoDB` `HTML` `CSS`
+Tech Stack: "JavaScript" "Node.js" "Express.js" "MongoDB" "HTML" "CSS"
 
 <a href="https://github.com/amandeepgangwar1/Soundwave-Studio">
   <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+</a>---
 
----
+📊 Superstore Sales Analysis
 
-### 📊 Superstore Sales Analysis
-
-**End-to-End Data Analysis & Business Intelligence Project**
+End-to-End Data Analysis & Business Intelligence Project
 
 Analyzed Superstore sales data to identify sales trends, profitability patterns and business insights.
 
-**Work Performed**
+Work Performed
 
 * Data cleaning and preprocessing
 * Exploratory Data Analysis
@@ -121,53 +95,47 @@ Analyzed Superstore sales data to identify sales trends, profitability patterns 
 * Business insights
 * Interactive Power BI dashboard
 
-**Tech Stack:** `Python` `Pandas` `NumPy` `Excel` `Power BI`
+Tech Stack: "Python" "Pandas" "NumPy" "Excel" "Power BI"
 
 ---
 
-### 🎓 Student Resource Finder
+🎓 Student Resource Finder
 
-**Student Resource Management Web Application**
+Student Resource Management Web Application
 
 A web application designed to help students find and manage useful academic resources.
 
-**Tech Stack:** `JavaScript` `Node.js` `Express.js` `MongoDB` `JWT`
+Tech Stack: "JavaScript" "Node.js" "Express.js" "MongoDB" "JWT"
 
 <a href="https://github.com/amandeepgangwar1/Resource_Finder_for_Students">
   <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+</a>---
 
----
+🏠 Gurugram Real Estate Analysis
 
-### 🔤 Language Detection System
+Real Estate Data Analysis & Visualization Project
 
-A machine learning application that identifies the language of input text using Python and Scikit-Learn.
+Analyzed Gurugram real estate data using Python to explore property prices, locations, sizes and other real estate trends and patterns.
 
-**Tech Stack:** `Python` `Scikit-Learn` `Machine Learning`
+Work Performed
 
----
+* Data cleaning and preprocessing
+* Exploratory Data Analysis
+* Real estate price analysis
+* Property and location analysis
+* Data visualization
+* Extracting meaningful business insights
 
-### 📝 Android Notes App
+Tech Stack: "Python" "Pandas" "NumPy" "Matplotlib" "Seaborn" "Data Analysis"
 
-An Android application for creating, storing and managing personal notes.
+<a href="https://github.com/amandeepgangwar1/Data-Analysis/tree/main/4%20Advance%20Python%20in%20Data%20Analysis%2FGurugram%20Real%20Estate%20Project">
+  <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>---
 
-**Tech Stack:** `Java` `Android` `Firebase`
-
----
-
-### 🌦️ Weather App
-
-An Android weather application that retrieves real-time weather information using a REST API.
-
-**Tech Stack:** `Java` `Android` `REST API`
-
----
-
-## 📂 Data Analysis Portfolio
+📂 Data Analysis Portfolio
 
 I'm building a dedicated portfolio covering:
 
-```text
 📊 Excel in Data Analysis
         ↓
 🐍 Python in Data Analysis
@@ -181,19 +149,15 @@ I'm building a dedicated portfolio covering:
 📊 Data Visualization
         ↓
 💡 Business Insights
-```
 
 Repository:
 
 <a href="https://github.com/amandeepgangwar1/Data-Analysis">
   <img src="https://img.shields.io/badge/Data%20Analysis%20Portfolio-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+</a>---
 
----
+📚 Currently Learning
 
-## 📚 Currently Learning
-
-```text
 Full-Stack Development
 ├── React
 ├── Node.js
@@ -217,11 +181,10 @@ Machine Learning
 ├── Classification
 ├── Model Evaluation
 └── Feature Engineering
-```
 
 ---
 
-## 🏆 Experience & Activities
+🏆 Experience & Activities
 
 * 👨‍💻 Smart India Hackathon — Team Member
 * 👥 Class Representative — Graduation
@@ -232,64 +195,30 @@ Machine Learning
 
 ---
 
-## 📈 GitHub Statistics
+📈 GitHub Statistics
 
-<div align="center">
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=amandeepgangwar1&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="170"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandeepgangwar1&layout=compact&hide_border=true&theme=transparent" height="170"/></div>---
 
-<img src="https://github-readme-stats.vercel.app/api?username=amandeepgangwar1&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="170"/>
+🔥 Contribution Streak
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandeepgangwar1&layout=compact&hide_border=true&theme=transparent" height="170"/>
+<div align="center"><img src="https://streak-stats.demolab.com?user=amandeepgangwar1&theme=transparent&hide_border=true" /></div>---
 
-</div>
+🐍 Contribution Graph
 
----
+<div align="center"><img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/></div>---
 
-## 🔥 Contribution Streak
+📊 GitHub Activity
 
-<div align="center">
+<div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=amandeepgangwar1&bg_color=00000000&color=36BCF7&line=36BCF7&point=FFFFFF&area=true&hide_border=true" width="95%"/></div>---
 
-<img src="https://streak-stats.demolab.com?user=amandeepgangwar1&theme=transparent&hide_border=true" />
+🤝 Connect With Me
 
-</div>
-
----
-
-## 🐍 Contribution Graph
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
-
-</div>
-
----
-
-## 📊 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=amandeepgangwar1&bg_color=00000000&color=36BCF7&line=36BCF7&point=FFFFFF&area=true&hide_border=true" width="95%"/>
-
-</div>
-
----
-
-## 🤝 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/amandeepgangwar1">
+<div align="center"><a href="https://github.com/amandeepgangwar1">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+</a></div>---
 
-</div>
+<div align="center">💡 "Build. Learn. Analyze. Improve."
 
----
-
-<div align="center">
-
-### 💡 "Build. Learn. Analyze. Improve."
-
-**Thanks for visiting my profile! ⭐**
+Thanks for visiting my profile! ⭐
 
 </div>
