@@ -78,27 +78,19 @@ A modern music streaming platform built with JavaScript, Node.js, Express.js and
 
 Key Features
 
-🎧 Music playback and controls
+- 🎧 Music playback and controls
+- 🔎 Music search
+- ❤️ Favorites
+- 🎵 Playlists
+- 📱 Responsive interface
+- 🔌 Backend APIs
+- 🗄️ MongoDB database integration
 
-🔎 Music search
+Tech Stack: "JavaScript" "Node.js" "Express.js" "MongoDB" "HTML" "CSS"
 
-❤️ Favorites
-
-🎵 Playlists
-
-📱 Responsive interface
-
-🔌 Backend APIs
-
-🗄️ MongoDB database integration
-
-
-Tech Stack: JavaScript Node.js Express.js MongoDB HTML CSS
-
-<a href="https://github.com/amandeepgangwar1/Soundwave-Studio">  
-  <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white"/>  
-</a>  
----
+<a href="https://github.com/amandeepgangwar1/Soundwave-Studio">
+  <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>---
 
 📊 Superstore Sales Analysis
 
@@ -108,19 +100,13 @@ Analyzed Superstore sales data to identify sales trends, profitability patterns 
 
 Work Performed
 
-Data cleaning and preprocessing
+- Data cleaning and preprocessing
+- Exploratory Data Analysis
+- Sales and profit analysis
+- Business insights
+- Interactive Power BI dashboard
 
-Exploratory Data Analysis
-
-Sales and profit analysis
-
-Business insights
-
-Interactive Power BI dashboard
-
-
-Tech Stack: Python Pandas NumPy Excel Power BI
-
+Tech Stack: "Python" "Pandas" "NumPy" "Excel" "Power BI"
 
 ---
 
@@ -130,39 +116,33 @@ Student Resource Management Web Application
 
 A web application designed to help students find and manage useful academic resources.
 
-Tech Stack: JavaScript Node.js Express.js MongoDB JWT
+Tech Stack: "JavaScript" "Node.js" "Express.js" "MongoDB" "JWT"
 
-<a href="https://github.com/amandeepgangwar1/Resource_Finder_for_Students">  
-  <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white"/>  
-</a>  
----
+<a href="https://github.com/amandeepgangwar1/Resource_Finder_for_Students">
+  <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>---
 
-🔤 Language Detection System
+🏠 Gurugram Real Estate Analysis
 
-A machine learning application that identifies the language of input text using Python and Scikit-Learn.
+Real Estate Data Analysis Project
 
-Tech Stack: Python Scikit-Learn Machine Learning
+An end-to-end real estate data analysis project focused on exploring and understanding property data from Gurugram.
 
+Work Performed
 
----
+- Data cleaning and preprocessing
+- Exploratory Data Analysis
+- Property data analysis
+- Price and area analysis
+- Identifying patterns and trends
+- Data visualization
+- Generating meaningful real estate insights
 
-📝 Android Notes App
+Tech Stack: "Python" "Pandas" "NumPy" "Matplotlib" "Seaborn"
 
-An Android application for creating, storing and managing personal notes.
-
-Tech Stack: Java Android Firebase
-
-
----
-
-🌦️ Weather App
-
-An Android weather application that retrieves real-time weather information using a REST API.
-
-Tech Stack: Java Android REST API
-
-
----
+<a href="https://github.com/amandeepgangwar1/Data-Analysis/tree/main/4%20Advance%20Python%20in%20Data%20Analysis%2FGurugram%20Real%20Estate%20Project">
+  <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>---
 
 📂 Data Analysis Portfolio
 
