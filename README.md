@@ -346,8 +346,6 @@ I'm building a dedicated portfolio covering:
 
 ## 📈 GitHub Activity
 
-## 📈 GitHub Activity
-
 <p align="center">
   <a href="https://github.com/amandeepgangwar1">
     <img src="https://img.shields.io/badge/View%20GitHub%20Activity-181717?style=for-the-badge&logo=github&logoColor=white" alt="View GitHub Activity"/>
