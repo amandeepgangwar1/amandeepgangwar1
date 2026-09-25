@@ -408,9 +408,14 @@ I'm building a dedicated portfolio covering:
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
+&nbsp;&nbsp;&nbsp;
+
 <a href="https://www.linkedin.com/in/amandeepgangwar/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-Amandeep%20Gangwar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
+
+&nbsp;&nbsp;&nbsp;
+
 <a href="mailto:amandeepgangwar0@gmail.com">
 <img src="https://img.shields.io/badge/Email-amandeepgangwar0%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
