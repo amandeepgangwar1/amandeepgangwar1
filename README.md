@@ -312,92 +312,61 @@ I'm building a dedicated portfolio covering:
 
 ---
 
-# 📊 GitHub Statistics
+## 📊 GitHub Statistics
 
-<div align="center">
+<p align="center">
+  <img src="https://img.shields.io/github/repos/amandeepgangwar1?style=for-the-badge&logo=github&label=Repositories" alt="Repositories"/>
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/amandeepgangwar1?style=for-the-badge&logo=github&label=Followers" alt="Followers"/>
+  &nbsp;
+  <img src="https://img.shields.io/github/stars/amandeepgangwar1?style=for-the-badge&logo=github&label=Stars" alt="Stars"/>
+</p>
 
-<a href="https://github.com/amandeepgangwar1">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=amandeepgangwar1&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent&rank_icon=github&custom_title=Amandeep's%20GitHub%20Stats" />
-
-</a>
-
-<a href="https://github.com/amandeepgangwar1">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandeepgangwar1&layout=compact&langs_count=8&hide_border=true&theme=transparent&custom_title=Most%20Used%20Languages" />
-
-</a>
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/github/last-commit/amandeepgangwar1/Soundwave-Studio?style=for-the-badge&logo=github&label=Latest%20Project%20Commit" alt="Latest Project Commit"/>
+</p>
 
 ---
 
-# 🔥 GitHub Contribution Streak
+## 🔥 GitHub Contribution Streak
 
-<div align="center">
-
-<a href="https://github.com/amandeepgangwar1">
-
-<img src="https://streak-stats.demolab.com/?user=amandeepgangwar1&theme=transparent&hide_border=true&date_format=M%20j%2C%20Y" />
-
-</a>
-
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=amandeepgangwar1&theme=transparent&hide_border=true&date_format=M%20j%2C%20Y" alt="GitHub Contribution Streak"/>
+</p>
 
 ---
 
-# 🐍 GitHub Contribution Graph
+## 🐍 GitHub Contribution Graph
 
-<div align="center">
-
-<a href="https://github.com/amandeepgangwar1">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
-
-</a>
-
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/amandeepgangwar1/amandeepgangwar1/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+</p>
 
 ---
 
-# 📈 GitHub Activity
+## 📈 GitHub Activity
 
-<div align="center">
-
-<a href="https://github.com/amandeepgangwar1">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=amandeepgangwar1&bg_color=00000000&color=36BCF7&line=36BCF7&point=36BCF7&area=true&hide_border=true&custom_title=Amandeep's%20GitHub%20Activity" width="95%"/>
-
-</a>
-
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amandeepgangwar1&bg_color=00000000&color=36BCF7&line=36BCF7&point=36BCF7&area=true&hide_border=true" alt="GitHub Activity Graph"/>
+</p>
 
 ---
 
-# 💻 GitHub Profile
+## 💻 GitHub Profile
 
-<div align="center">
-
-<a href="https://github.com/amandeepgangwar1">
-
-<img src="https://img.shields.io/badge/Repositories-17-181717?style=for-the-badge&logo=github&logoColor=white"/>
-
-</a>
-
-<a href="https://github.com/amandeepgangwar1?tab=repositories">
-
-<img src="https://img.shields.io/github/stars/amandeepgangwar1?style=for-the-badge&logo=github&label=Stars"/>
-
-</a>
-
-<a href="https://github.com/amandeepgangwar1?tab=followers">
-
-<img src="https://img.shields.io/github/followers/amandeepgangwar1?style=for-the-badge&logo=github&label=Followers"/>
-
-</a>
-
-</div>
-
+<p align="center">
+  <a href="https://github.com/amandeepgangwar1">
+    <img src="https://img.shields.io/github/repos/amandeepgangwar1?style=for-the-badge&logo=github&label=Repositories" alt="Repositories"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/amandeepgangwar1?tab=stars">
+    <img src="https://img.shields.io/github/stars/amandeepgangwar1?style=for-the-badge&logo=github&label=Stars" alt="Stars"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/amandeepgangwar1?tab=followers">
+    <img src="https://img.shields.io/github/followers/amandeepgangwar1?style=for-the-badge&logo=github&label=Followers" alt="Followers"/>
+  </a>
+</p>
 ---
 
 # 🤝 Connect With Me
