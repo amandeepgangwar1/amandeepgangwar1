@@ -338,9 +338,9 @@ I'm building a dedicated portfolio covering:
 
 ## 🐍 GitHub Contribution Graph
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/amandeepgangwar1/amandeepgangwar1/output/github-contribution-grid-snake.svg">
-</p>
+<div align="center">  
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>  
+</div>  
 
 ---
 
