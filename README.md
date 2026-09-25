@@ -346,8 +346,12 @@ I'm building a dedicated portfolio covering:
 
 ## 📈 GitHub Activity
 
+## 📈 GitHub Activity
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amandeepgangwar1&bg_color=00000000&color=36BCF7&line=36BCF7&point=36BCF7&area=true&hide_border=true" alt="GitHub Activity Graph"/>
+  <a href="https://github.com/amandeepgangwar1">
+    <img src="https://img.shields.io/badge/View%20GitHub%20Activity-181717?style=for-the-badge&logo=github&logoColor=white" alt="View GitHub Activity"/>
+  </a>
 </p>
 
 ---
