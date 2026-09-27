@@ -22,7 +22,7 @@
 
 ## 👨‍💻 About Me
 
-I'm an **MCA student at Chandigarh University** passionate about building practical software applications and turning data into meaningful insights.
+I'm an **MCA (Master of Computer Application) student at Chandigarh University** passionate about building practical software applications and turning data into meaningful insights.
 
 <table>
 <tr>
