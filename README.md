@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm **Amandeep Gangwar**
+# 👋 Hi, I am **Amandeep Gangwar**
 
 ### `MCA Student` • `Full-Stack Developer` • `Data Analyst`
 
